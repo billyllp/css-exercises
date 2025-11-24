@@ -1,20 +1,19 @@
 .odd {
-
     background-color: rgb(131, 32, 98);
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #two {
-    color: rgb(0,0,255);
+    color: rgb(0, 0, 255); /* This should apply blue text to the #two div */
     font-size: 36px;
 }
 
-.three{
-font-size: 24px;
+.three {
+    font-size: 24px; /* This will make text with .three class 24px */
 }
 
 #four {
-    background-color: rgb(72, 185, 72);
+    background-color: rgb(72, 185, 72); /* Green background for #four */
     font-size: 24px;
-    font: bold;
-    }
+    font-weight: bold; /* Fix: Use 'font-weight' for bold text */
+}
