@@ -3,7 +3,7 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#two {
+.two {
     color: rgb(0, 0, 255); /* This should apply blue text to the #two div */
     font-size: 36px;
 }
