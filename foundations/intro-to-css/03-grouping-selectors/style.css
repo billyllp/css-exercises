@@ -1,15 +1,16 @@
-.click,.dont {
+.click,
+.dont {
 font-size: 28px;
 font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-.click{
+.click {
 
     background-color: black;
     color: white;
 
 }
 
-.dont{
+.dont {
 background-color: yellow;
 }
