@@ -3,21 +3,24 @@ body {
 }
 
 
-.small-para {
+
+.small{
   font-size: 14px;
   font-weight: 800;
-   color: hsl(0, 0%, 0%);
+
 }
 
 .para {
   font-size: 22px;
-   color: hsl(0, 0%, 0%);
+  color: hsl(0, 0%, 0%);
+  font-weight: 800;
 }
 
 .confirm {
   background: green;
   color: white;
   font-weight: bold;
+  font-size: 20px;
 } 
 
 .cancel {
@@ -26,7 +29,7 @@ body {
   font-size: 20px;
 }
 
-.text,
+
 .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
