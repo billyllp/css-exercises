@@ -16,7 +16,7 @@ body {
    color: hsl(0, 0%, 0%);
 }
 
-.small-para {
+p.small-para {
   font-size: 14px;
    font-weight: 800;
    color: hsl(0, 0%, 0%);
