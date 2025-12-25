@@ -4,8 +4,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 40px;
-  padding: 40px;
+
 }
 
 .logo {
@@ -30,14 +29,10 @@ a {
   text-decoration: none;
 }
 
-.right {
-display: flex;
-flex-direction: column;
-}
-
-.left {
+.ul {
 display: flex;
 flex-direction: row;
-gap: 40px;
-
+margin: 0;
+padding: 0;
+gap: 8px;
 }
