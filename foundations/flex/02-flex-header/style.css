@@ -30,8 +30,9 @@ a {
   text-decoration: none;
 }
 
-.links {
+.right {
 display: flex;
+flex-direction: column;
 }
 
 .left {
